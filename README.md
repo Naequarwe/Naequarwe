@@ -2,7 +2,7 @@
 - 👀 I’m interested in Making Websites and private Javascript Bots
 - 🌱 I’m currently learning JS and HTML
 - 💞️ I’m looking to collaborate on Nothing at this point in time
-- 📫 How to reach me Pm me or find me on my community Discord server `https://discord.gg/BSYA5Vy`
+- 📫 How to reach me Pm me or find me on my community Discord server: https://discord.gg/BSYA5Vy
 
 
 <!---
